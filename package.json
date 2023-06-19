@@ -1,0 +1,23 @@
+{
+  "name": "js-info",
+  "version": "1.0.0",
+  "description": "js.info tasks and set prettier and eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nstrnvd/js-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nstrnvd/js-info/issues"
+  },
+  "homepage": "https://github.com/nstrnvd/js-info#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "prettier": "2.8.8"
+  }
+}

@@ -9,7 +9,11 @@
 //   return a < b ? a : b;
 // }
 
-
+console.log('jnmb');
+console.log('jhhhhhhhhh');
+console.log(
+  'nahhhhhhhhgrggggggggggggrgrgrgregreregergegergehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhrgstaran',
+);
 
 // let age = 12;
 // function checkAge(age) {
@@ -28,7 +32,6 @@
 //   return confirm('Did parents allow you?');
 // }
 // checkAge(age);
-
 
 // function checkAge(age) {
 //   return (age > 18) ? true : confirm('Did parents allow you?');
