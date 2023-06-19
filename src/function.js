@@ -14,7 +14,6 @@ console.log('jhhhhhhhhh');
 console.log(
   'nahhhhhhhhgrggggggggggggrgrgrgregreregergegergehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhrgstaran',
 );
-
 // let age = 12;
 // function checkAge(age) {
 //   if (age > 18) {
